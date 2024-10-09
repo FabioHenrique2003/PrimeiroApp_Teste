@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="etText">Digite algo…</string>
+    <string name="btEnviar">Enviar</string>
+</resources>

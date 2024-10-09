@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="etText">Digite algo…</string>
+    <string name="btEnviar">Enviar</string>
+</resources>
